@@ -1,0 +1,1 @@
+Este primeiro projeto de automação de Excel é o resultado do tutorial do livro "Automate the Boring Stuff with Python", que se encontra neste link https://automatetheboringstuff.com/2e/chapter13/, especificamente no capítulo 13.
