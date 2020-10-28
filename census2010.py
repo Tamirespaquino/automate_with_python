@@ -1,1 +1,1 @@
-allData ={'WY': {'Weston': {'pop': 3894, 'tracts': 1}}}
+allData = {'WY': {'Weston': {'pop': 3894, 'tracts': 1}}}
